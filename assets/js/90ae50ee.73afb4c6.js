@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkhuron_os_website=self.webpackChunkhuron_os_website||[]).push([[5371],{5837:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/test-site/blog/tags/facebook","allTagsPath":"/test-site/blog/tags","count":1}')}}]);
